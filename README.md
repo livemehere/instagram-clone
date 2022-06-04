@@ -3,8 +3,8 @@
 ## 추가 설치 library
 
 ```bash
-expo install expo-font @expo-google-fonts/inter
-expo install expo-linear-gradient
+expo install expo-font @expo-google-fonts/inter # logo font
+expo install expo-linear-gradient # stroy gardiant View
 ```
 
 ## Trouble Shouting
