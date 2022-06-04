@@ -13,13 +13,13 @@ const Header = () => {
   return (
     <View style={styles.header}>
       <TouchableOpacity>
-        <Text style={styles.logo}>Instagram</Text>
+        <Text style={styles.logo}>Kongstagram</Text>
       </TouchableOpacity>
       <View style={styles.icons}>
         <TouchableOpacity>
           <AntDesign
             name="plussquareo"
-            size={30}
+            size={25}
             color="black"
             style={styles.icon}
           />
@@ -27,7 +27,7 @@ const Header = () => {
         <TouchableOpacity>
           <AntDesign
             name="hearto"
-            size={30}
+            size={25}
             color="black"
             style={styles.icon}
           />
@@ -38,7 +38,7 @@ const Header = () => {
           </View>
           <Feather
             name="message-circle"
-            size={30}
+            size={25}
             color="black"
             style={styles.icon}
           />
