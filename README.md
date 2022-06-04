@@ -1,5 +1,11 @@
 # React Native Instagram Clone
 
+## 앱 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61547778/172020482-c6f798ce-d990-4e24-abfd-65fff7609921.jpeg" width="250"/>
+</p>
+
 ## TODO 
 
 - [ ] 자기자신 스토리 있을 시 표시 변경
